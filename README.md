@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact: I'm an avid PC gamer and would love to connect and talk about MMORPG's
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <!--
 **JasonMckeeBakosKenzie/JasonMckeeBakosKenzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
