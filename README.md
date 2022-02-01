@@ -1,11 +1,10 @@
 ### Hey there, I'm Jason!  👋
 
-- 🔭 I’m currently working on some side projects involving data from Final Fantasy XIV
+- 🔭 I’m currently working on courses for Cyber Security and Penetration Testing
 
 - 🌱 I’m currently learning how to better teach new learners how to code!
 
 - 💬 Ask me about *Anything*
-
 
 - 😄 Pronouns: He/Him
 
